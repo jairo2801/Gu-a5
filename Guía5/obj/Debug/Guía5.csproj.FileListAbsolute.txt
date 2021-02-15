@@ -1,0 +1,10 @@
+C:\Users\Jairo\source\repos\Guía5\Guía5\bin\Debug\Guía5.exe.config
+C:\Users\Jairo\source\repos\Guía5\Guía5\bin\Debug\Guía5.exe
+C:\Users\Jairo\source\repos\Guía5\Guía5\bin\Debug\Guía5.pdb
+C:\Users\Jairo\source\repos\Guía5\Guía5\obj\Debug\Guía5.csprojAssemblyReference.cache
+C:\Users\Jairo\source\repos\Guía5\Guía5\obj\Debug\Guía5.Form1.resources
+C:\Users\Jairo\source\repos\Guía5\Guía5\obj\Debug\Guía5.Properties.Resources.resources
+C:\Users\Jairo\source\repos\Guía5\Guía5\obj\Debug\Guía5.csproj.GenerateResource.cache
+C:\Users\Jairo\source\repos\Guía5\Guía5\obj\Debug\Guía5.csproj.CoreCompileInputs.cache
+C:\Users\Jairo\source\repos\Guía5\Guía5\obj\Debug\Guía5.exe
+C:\Users\Jairo\source\repos\Guía5\Guía5\obj\Debug\Guía5.pdb
